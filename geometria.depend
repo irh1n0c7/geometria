@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621638107 source:c:\users\jose\desktop\geometria\main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1621637714 c:\users\jose\desktop\geometria\include\rectangulo.h
+
+1621638048 source:c:\users\jose\desktop\geometria\src\rectangulo.cpp
+	"Rectangulo.h"
+	<iostream>
+
