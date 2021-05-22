@@ -16,3 +16,4 @@ class Rectangulo {
 };
 
 #endif  // RECTANGULO_H
+/* Oe ctmr esta mal tu wueada*/
